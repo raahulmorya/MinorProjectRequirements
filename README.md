@@ -36,7 +36,7 @@ To install **ESP8266 NodeMCU** board  :
 ```
  http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
-into the “Additional Boards Manager URLs” field as shown in the figure below. Then, click the “OK” button:![d](./Pasted image 20240430152606.png]
+into the “Additional Boards Manager URLs” field as shown in the figure below. Then, click the “OK” button:![[Pasted image 20240430152606.png]]
 3.  Navigate to **Tools > Board > Boards Manager** or using shortcut ``ctrl + shift + B``
 4. Search for 
 ```
@@ -59,7 +59,7 @@ This library is compatible with the **esp8266, esp32** architectures.
 1. Navigate to **Sketch > Include Library > Manage Libraries** or using 
 shortcut ``ctrl + shift + I``
 2. Search for **Webserial**  
-   ![img](Pasted image 20240430212536.png)
+	![[Pasted image 20240430212536.png]]
 
 3. Install the latest version
 4. You also need to install the [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) and the [AsyncTCP](https://github.com/me-no-dev/AsyncTCP) libraries. Click the following links to download the libraries’ files.
