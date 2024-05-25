@@ -36,7 +36,7 @@ To install **ESP8266 NodeMCU** board  :
 ```
  http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
-into the “Additional Boards Manager URLs” field as shown in the figure below. Then, click the “OK” button:![d](Pasted image 20240430152606.png]
+into the “Additional Boards Manager URLs” field as shown in the figure below. Then, click the “OK” button:![d](./Pasted image 20240430152606.png]
 3.  Navigate to **Tools > Board > Boards Manager** or using shortcut ``ctrl + shift + B``
 4. Search for 
 ```
